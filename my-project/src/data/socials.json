@@ -1,0 +1,22 @@
+[
+   {
+    "name": "Instagram",
+     "url": "https://instagram.com/example",
+     "icon": "fa-brands fa-instagram" 
+    },
+     {
+    "name": "Youtube",
+     "url": "https://youtube.com/example",
+     "icon": "fa-brands fa-youtube" 
+    },
+     {
+    "name": "Facebook",
+     "url": "https://facebook.com/example",
+     "icon": "fa-brands fa-facebook-f" 
+    },
+     {
+    "name": "Tiktok",
+     "url": "https://tiktok.com/example",
+     "icon": "fa-brands fa-tiktok" 
+    }
+]

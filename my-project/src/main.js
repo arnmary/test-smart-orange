@@ -25,7 +25,7 @@ const swiper = new Swiper('.mySwiper', {
 
 const renderCard = (card) => `
 <div class ="card">
-<img src ="./Pin.png" alt ="Pin icon" class="pin-img"/>
+<img src ="Pin.png" alt ="Pin icon" class="pin-img"/>
 <div class = "card-header"
 <span class = "year">${card.year} p.</span>
 <span class = "category">${card.category}</span>

@@ -366,6 +366,14 @@ button:hover {
   width: 50%;
   margin-top: 5.5rem;
 }
+@media (max-width: 1540px) {
+  .footer-right-part p{
+    left: 34%;
+    top:63%;
+    white-space: nowrap;
+
+  }
+}
 
 @media (max-width: 1200px) {
   .title,
